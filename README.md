@@ -1,4 +1,11 @@
 ## Olá eu sou o Rodrigo Bueno 👋, desenvolvedor python e apaixonado por tecnologia!
+
+- 🌱 No momento, eu estudo as tecnologias: **Python, Flask, FastAPI, Django, Pandas, Matplotlib, Numpy**
+
+- 👨‍💻 Todos os meus projetos estão disponíveis em [https://github.com/RodrigoBuen](https://github.com/uricholiveira)
+
+- 💬 Bora trocar uma ideia, sou muito curioso e estou sempre procurando aprender. 😎✌
+  
 <div align="center">
   <a href="https://github.com/rodrigobuen">
   <img height="190em" src="https://github-readme-stats.vercel.app/api?username=rodrigobuen&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
