@@ -2,7 +2,7 @@
 
 - 🌱 No momento, eu estudo as tecnologias: **Python, Flask, FastAPI, Django, Pandas, Matplotlib, Numpy**
 
-- 👨‍💻 Todos os meus projetos estão disponíveis em [https://github.com/RodrigoBuen](https://github.com/uricholiveira)
+- 👨‍💻 Todos os meus projetos estão disponíveis em [https://github.com/RodrigoBuen](https://github.com/RodrigoBuen)
 
 - 💬 Bora trocar uma ideia, sou muito curioso e estou sempre procurando aprender. 😎✌
 
