@@ -52,7 +52,7 @@
 ## 📬 Vamos nos conectar?
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seu-usuario)  
-📧 Email: rodrigo.seuemail@gmail.com _(edite com seu e-mail real)_
+📧 Email: rodrigo.bueno.developer@gmail.com
 
 ---
 
