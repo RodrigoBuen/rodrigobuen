@@ -1,32 +1,59 @@
-## Olá eu sou o Rodrigo Bueno 👋, desenvolvedor python e apaixonado por tecnologia!
+<h1 align="center">Olá! Eu sou o Rodrigo Bueno 👋</h1>
 
-- 🌱 No momento, eu estudo as tecnologias: **Python, Flask, FastAPI, Django, Pandas, Matplotlib, Numpy**
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=00AEEF&center=true&vCenter=true&width=435&lines=Estudante+de+Ci%C3%AAncia+de+Dados;Amante+de+Python+e+tecnologia;Em+busca+de+novos+desafios!+%F0%9F%9A%80" alt="Typing SVG" />
+</p>
 
-- 👨‍💻 Todos os meus projetos estão disponíveis em [https://github.com/RodrigoBuen](https://github.com/RodrigoBuen)
+---
 
-- 💬 Bora trocar uma ideia, sou muito curioso e estou sempre procurando aprender. 😎✌
+## 🧠 Sobre mim
 
-<br>
-  
+🎓 Estudante de **Ciência de Dados** na Estácio  
+🔎 Apaixonado por **Python**, automação e desenvolvimento web  
+🌱 Aprendendo tecnologias como **Agno**, **FastAPI** e **Streamlit**  
+🎯 Objetivo: atuar com tecnologia, dados e automação no futuro próximo
+
+---
+
+## 🚀 Algumas tecnologias que uso e estudo
+
+![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Flask](https://img.shields.io/badge/-Flask-000000?style=for-the-badge&logo=flask)
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=for-the-badge&logo=fastapi)
+![Django](https://img.shields.io/badge/-Django-092E20?style=for-the-badge&logo=django)
+![Pandas](https://img.shields.io/badge/-Pandas-150458?style=for-the-badge&logo=pandas)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql)
+![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+---
+
+## 💼 Projetos em destaque
+
+| 💡 Projeto | 🔎 Descrição |
+|------------|-------------|
+| [🤖 Resume_Video](https://github.com/RodrigoBuen/Resume_Video) |  Ferramenta com IA que gera resumos inteligentes de vídeos do YouTube |
+| [☁️ Clima-Tempo](https://github.com/RodrigoBuen/Clima-Tempo) | Aplicativo que consulta dados do tempo via API |
+| [📋 CRUD_Flask](https://github.com/RodrigoBuen/CRUD_Flask) | Sistema de cadastro com Flask e banco de dados |
+| [⏸ Project_Downloader](https://github.com/RodrigoBuen/Project_Downloader) | Ferramenta que possibilita downloads do YouTube Áudio, Video |
+
+🔗 Veja todos os repositórios [aqui](https://github.com/RodrigoBuen?tab=repositories)
+
+---
+
+## 📊 Estatísticas GitHub
+
 <div align="center">
-  <a href="https://github.com/rodrigobuen">
-  <img height="190em" src="https://github-readme-stats.vercel.app/api?username=rodrigobuen&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigobuen&layout=compact&langs_count=7&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RodrigoBuen&show_icons=true&theme=radical" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RodrigoBuen&layout=compact&theme=radical"/>
 </div>
-  
- ## Tecnologias
-<div style="display: inline_block"><br>
-  <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Flask" height="65" width="85" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original-wordmark.svg" />
-  <img align="center" alt="Django" height="65" width="85" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-original.svg" />
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align='center' alt='JavaScript' height='30' width='40' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-</div>
-  
- ## Contatos 
-<div> 
-  <a href = "mailto:rodrigo.bueno.developer@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/rodrigo-bueno-518775210/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
-</div>
+
+---
+
+## 📬 Vamos nos conectar?
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seu-usuario)  
+📧 Email: rodrigo.seuemail@gmail.com _(edite com seu e-mail real)_
+
+---
+
+<p align="center">Feito com ❤️ por Rodrigo Bueno</p>
